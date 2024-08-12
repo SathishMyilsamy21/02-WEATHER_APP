@@ -60,7 +60,7 @@ const Weather = () => {
   };
 
   useEffect(() => {
-    search("Kerala");
+    search("Tamil Nadu");
   }, []);
   return (
     <div className="weather">
